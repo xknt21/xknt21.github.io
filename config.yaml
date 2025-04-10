@@ -24,11 +24,11 @@ params:
   author: PBL3 Group H
   images: ['<link or path of image for opengraph, twitter-cards>']
   DateFormat: 'January 2, 2006'
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -75,11 +75,20 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello world, We are Group H! 👩🏻‍💻"
-    Content: Welcome to our digital garden where we document our progress.
+    Content: |
+     # Project Member  
+     **Ryusei Fujita - Project Manager**  
+     **Kanato Nishiura**  
+     **Yukiya Nakamura**  
+     **Ananna Taslima Hossain**  
+     **Dake Parth**  
+     **Huang Chiung-ning**  
+     **Jonathan Setiawan**
+
 
   socialIcons:
-    # - name: github
-    #   url: 'https://github.com/xsol05'
+    - name: github
+      url: 'https://github.com/xknt21/'
     # - name: youtube
     #   url: 'https://www.youtube.com/c/MagdelineHuang/featured'
     # - name: instagram
