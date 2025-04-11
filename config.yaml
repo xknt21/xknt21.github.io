@@ -127,21 +127,21 @@ menu:
     #   name: about
     #   url: /about/
     #   weight: 10
-    - identifier: archive
-      name: archive
-      url: /archive/
+    - identifier: About Project
+      name: About Project
+      url: /project/
       weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: System Info
+      name: System Info
+      url: /system/
       weight: 30
-    - identifier: search
-      name: search
-      url: /search/
+    - identifier: Schedule
+      name: Schedule
+      url: /schedule/
       weight: 40
-    - identifier: changelog
-      name: changelog
-      url: /changelog/
+    - identifier: Presentation
+      name: Presentation
+      url: /presentation/
       weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
