@@ -163,5 +163,5 @@ outputs:
     - JSON # is necessary
 
 # Publishing the site
-# publishDir: '/'
+publishDir: 'public'
 
