@@ -42,9 +42,22 @@
       <description></description>
     </item>
     <item>
+      <title>[Group Documentation] April 11 2025</title>
+      <link>https://xknt21.github.io/contents/apr11/</link>
+      <pubDate>Fri, 11 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr11/</guid>
+      <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;
+&lt;h3 id=&#34;highway-route-optimization&#34;&gt;Highway Route Optimization&lt;/h3&gt;
+&lt;p&gt;Would optimize the route across an expressway for vehicles to avoid traffic.&lt;/p&gt;
+&lt;h3 id=&#34;low-light-area-detectors&#34;&gt;Low-Light Area Detectors&lt;/h3&gt;
+&lt;p&gt;Use location of areas that are not lit up during the night to advise the government where to install street-lighting systems to improve nighttime visibility and increase safety of such low-light areas.&lt;/p&gt;
+&lt;h3 id=&#34;urban-shadow-tracker&#34;&gt;Urban Shadow-Tracker&lt;/h3&gt;
+&lt;p&gt;Detects public areas with too much and too less shade to predict and provide recommendations for the government to plant trees and install solar panels to reduce public over-exposure to solar radiation.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>[Group Documentation] April 8 2025</title>
       <link>https://xknt21.github.io/contents/apr8/</link>
-      <pubDate>Thu, 10 Apr 2025 01:06:59 +0900</pubDate>
+      <pubDate>Tue, 08 Apr 2025 01:06:59 +0900</pubDate>
       <guid>https://xknt21.github.io/contents/apr8/</guid>
       <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;
 &lt;h3 id=&#34;toilet-finder-application&#34;&gt;Toilet Finder Application&lt;/h3&gt;
