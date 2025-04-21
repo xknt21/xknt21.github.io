@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PBL3 Group H</title>
+    <link>https://xknt21.github.io/</link>
+    <description>Recent content on PBL3 Group H</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2025 14:35:02 +0900</lastBuildDate>
+    <atom:link href="https://xknt21.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation</title>
+      <link>https://xknt21.github.io/presentation/presentation/</link>
+      <pubDate>Tue, 15 Apr 2025 14:35:02 +0900</pubDate>
+      <guid>https://xknt21.github.io/presentation/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>https://xknt21.github.io/schedule/schedule/</link>
+      <pubDate>Tue, 15 Apr 2025 14:34:48 +0900</pubDate>
+      <guid>https://xknt21.github.io/schedule/schedule/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System_info</title>
+      <link>https://xknt21.github.io/system/system_info/</link>
+      <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
+      <guid>https://xknt21.github.io/system/system_info/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Project</title>
+      <link>https://xknt21.github.io/project/about_project/</link>
+      <pubDate>Tue, 15 Apr 2025 14:34:06 +0900</pubDate>
+      <guid>https://xknt21.github.io/project/about_project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[Group Documentation] April 11 2025</title>
+      <link>https://xknt21.github.io/contents/apr11/</link>
+      <pubDate>Fri, 11 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr11/</guid>
+      <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;highway-route-optimization&#34;&gt;Highway Route Optimization&lt;/h3&gt;&#xA;&lt;p&gt;Would optimize the route across an expressway for vehicles to avoid traffic.&lt;/p&gt;&#xA;&lt;h3 id=&#34;low-light-area-detectors&#34;&gt;Low-Light Area Detectors&lt;/h3&gt;&#xA;&lt;p&gt;Use location of areas that are not lit up during the night to advise the government where to install street-lighting systems to improve nighttime visibility and increase safety of such low-light areas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;urban-shadow-tracker&#34;&gt;Urban Shadow-Tracker&lt;/h3&gt;&#xA;&lt;p&gt;Detects public areas with too much and too less shade to predict and provide recommendations for the government to plant trees and install solar panels to reduce public over-exposure to solar radiation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Group Documentation] April 8 2025</title>
+      <link>https://xknt21.github.io/contents/apr8/</link>
+      <pubDate>Tue, 08 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr8/</guid>
+      <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;toilet-finder-application&#34;&gt;Toilet Finder Application&lt;/h3&gt;&#xA;&lt;p&gt;This application is a smart feature designed to help users locate nearby public restrooms quickly and conveniently. It’s especially useful for individuals with specific needs, such as people with disabilities or those looking for clean and accessible facilities. Here’s what it does:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rush Hour Detection:&lt;/strong&gt; The app checks the current time and location data to determine how busy certain restrooms might be. During peak hours, it can suggest less crowded alternatives nearby, helping users avoid long waits.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
