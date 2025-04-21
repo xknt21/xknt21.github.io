@@ -11,8 +11,25 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Apr 2025 14:35:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 01:06:59 +0900</lastBuildDate>
     <atom:link href="https://xknt21.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Group Documentation] April 17 2025</title>
+      <link>https://xknt21.github.io/contents/apr17/</link>
+      <pubDate>Thu, 17 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr17/</guid>
+      <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;
+&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
+&lt;p&gt;Participatory budgeting (PB) empowers citizens to influence how public funds are allocated. However, challenges persist in ensuring fairness, transparency, and effective data utilization within these processes. Traditional methods may not adequately capture diverse community needs or leverage data-driven insights for optimal decision-making.​&lt;/p&gt;
+&lt;h3 id=&#34;data-acquisition&#34;&gt;Data Acquisition&lt;/h3&gt;
+&lt;p&gt;Sources of Data:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Historical PB election data from platforms like Pabulib, encompassing over 650 Polish PB elections.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open budget data from government portals and initiatives like Open Spending.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Presentation</title>
       <link>https://xknt21.github.io/presentation/presentation/</link>
@@ -40,6 +57,31 @@
       <pubDate>Tue, 15 Apr 2025 14:34:06 +0900</pubDate>
       <guid>https://xknt21.github.io/project/about_project/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>[Group Documentation] April 15 2025</title>
+      <link>https://xknt21.github.io/contents/apr15./</link>
+      <pubDate>Tue, 15 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr15./</guid>
+      <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;
+&lt;h3 id=&#34;toilet-finder-app&#34;&gt;Toilet Finder App&lt;/h3&gt;
+&lt;p&gt;It helps users find nearby public restrooms. real-time crowd data, wheelchair accessibility, user reviews, location maps, and elevator info.&lt;/p&gt;
+&lt;h3 id=&#34;parking-finder-app&#34;&gt;Parking Finder App&lt;/h3&gt;
+&lt;p&gt;It shows available parking spaces near sightseeing spots. real-time availability, price comparison, distance to destination.&lt;/p&gt;
+&lt;h3 id=&#34;community-feedback-participatory-budgetary-system&#34;&gt;Community feedback participatory budgetary system&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Crowd sourcing&lt;/li&gt;
+&lt;li&gt;Use geolocation&lt;/li&gt;
+&lt;li&gt;Monitor progress, suggest, discuss, vote etc&lt;/li&gt;
+&lt;li&gt;Image processing&lt;/li&gt;
+&lt;li&gt;Machine learning based rating system -&amp;gt; Agree or Disagree -&amp;gt; Motivates their transparency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;citizen-based-participatory-budgeting-system&#34;&gt;Citizen Based Participatory Budgeting System&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Sets from Government website&lt;/li&gt;
+&lt;li&gt;Gather feedbacks from Citizens&lt;/li&gt;
+&lt;li&gt;Analyze feedback to improve the quality and motivate their transparency by being monitored&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>[Group Documentation] April 11 2025</title>
