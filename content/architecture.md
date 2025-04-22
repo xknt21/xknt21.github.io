@@ -1,7 +1,7 @@
 ---
-date: 2025-04-15T14:34:31+09:00
+date: 2025-04-15T14:34:06+09:00
 draft: false
-title: 'System_info'
+title: 'System Architecture'
 summary: 
 description:
 author:

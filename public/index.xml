@@ -32,30 +32,37 @@
     </item>
     <item>
       <title>Presentation</title>
-      <link>https://xknt21.github.io/presentation/presentation/</link>
+      <link>https://xknt21.github.io/presentation/</link>
       <pubDate>Tue, 15 Apr 2025 14:35:02 +0900</pubDate>
-      <guid>https://xknt21.github.io/presentation/presentation/</guid>
+      <guid>https://xknt21.github.io/presentation/</guid>
       <description></description>
     </item>
     <item>
-      <title>Schedule</title>
-      <link>https://xknt21.github.io/schedule/schedule/</link>
-      <pubDate>Tue, 15 Apr 2025 14:34:48 +0900</pubDate>
-      <guid>https://xknt21.github.io/schedule/schedule/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>System_info</title>
-      <link>https://xknt21.github.io/system/system_info/</link>
+      <title>Project Proposal</title>
+      <link>https://xknt21.github.io/project/</link>
       <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
-      <guid>https://xknt21.github.io/system/system_info/</guid>
+      <guid>https://xknt21.github.io/project/</guid>
       <description></description>
     </item>
     <item>
-      <title>About Project</title>
-      <link>https://xknt21.github.io/project/about_project/</link>
+      <title>Requirements Specification</title>
+      <link>https://xknt21.github.io/requirements/</link>
+      <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
+      <guid>https://xknt21.github.io/requirements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Design Document</title>
+      <link>https://xknt21.github.io/system/</link>
+      <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
+      <guid>https://xknt21.github.io/system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Architecture</title>
+      <link>https://xknt21.github.io/architecture/</link>
       <pubDate>Tue, 15 Apr 2025 14:34:06 +0900</pubDate>
-      <guid>https://xknt21.github.io/project/about_project/</guid>
+      <guid>https://xknt21.github.io/architecture/</guid>
       <description></description>
     </item>
     <item>

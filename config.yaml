@@ -123,26 +123,32 @@ params:
 
 menu:
   main:
-    # - identifier: about
-    #   name: about
-    #   url: /about/
-    #   weight: 10
-    - identifier: About Project
-      name: About Project
+  
+    - identifier: Project Proposal
+      name: Project Proposal
       url: /project/
+      weight: 10
+    - identifier: Requirements Specification
+      name: Requirements Specification
+      url: /requirements/
       weight: 20
-    - identifier: System Info
-      name: System Info
+    - identifier: System Design Document
+      name: System Design Document
       url: /system/
       weight: 30
-    - identifier: Schedule
-      name: Schedule
-      url: /schedule/
+    - identifier: System Architecture
+      name: System Architecture
+      url: /architecture/
       weight: 40
+    - identifier: Schedule & Planning
+      name: Schedule & Planning
+      url: /contents/
+      weight: 50
     - identifier: Presentation
       name: Presentation
       url: /presentation/
-      weight: 50
+      weight: 60
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
