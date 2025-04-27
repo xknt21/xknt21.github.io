@@ -36,6 +36,18 @@ It shows available parking spaces near sightseeing spots. real-time availability
 * Analyze feedback to improve the quality and motivate their transparency by being monitored   
 
 
+### Smart Food Scanner: A Personalised Ingredient Detection App   
+Many international students and residents in Japan, including those who follow halal, vegetarian, vegan diets, or have specific food allergies, often face difficulties identifying suitable food options in convenience stores due to language barriers and unclear ingredient labelling.    
+
+* A mobile application that allows users to scan food labels or take a photo to identify ingredients can be highly beneficial.
+* The app would scan product labels and highlight ingredients based on the user’s dietary preferences or restrictions, such as alcohol, pork, animal-based additives, or allergens like nuts and gluten. 
+* Users can also scan barcodes to check if a product is halal-certified, vegetarian-friendly, or allergy-safe.
+* To enhance the experience, users can contribute by reporting new diet-friendly products, and the app will provide ingredient translations in English, Arabic, and other languages for those who cannot read Japanese. 
+* A built-in database of certified products in Japan and a community feature for sharing reviews or recommendations will further support users in making safe and informed food choices.
+
+
+
+
 
 
 

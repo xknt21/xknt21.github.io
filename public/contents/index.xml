@@ -11,24 +11,37 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Apr 2025 01:06:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 01:06:59 +0900</lastBuildDate>
     <atom:link href="https://xknt21.github.io/contents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Group Documentation] April 24 2025</title>
+      <link>https://xknt21.github.io/contents/apr24/</link>
+      <pubDate>Thu, 24 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr24/</guid>
+      <description>&lt;h1 id=&#34;smart-re-identification-application-for-stray-cats-post-snr-program&#34;&gt;Smart Re-Identification Application for Stray Cats Post-SNR Program&lt;/h1&gt;
+&lt;h2 id=&#34;problem-elicitation--background&#34;&gt;Problem Elicitation / Background&lt;/h2&gt;
+&lt;p&gt;Urban animal shelters, particularly in regions like Taiwan, are heavily burdened and face legal or ethical restrictions against euthanizing animals. Following the Shelter-Neuter-Return (SNR) program, many cats are released back into the urban environment without systematic tracking, making it difficult to monitor their wellbeing or promote their adoption.&lt;br&gt;
+There is a growing societal need for a solution that maintains a connection with these cats after their return, fostering animal welfare and enabling post-release care and adoption opportunities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Group Documentation] April 22 2025</title>
+      <link>https://xknt21.github.io/contents/apr22/</link>
+      <pubDate>Tue, 22 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr22/</guid>
+      <description>&lt;h1 id=&#34;recognition-application-for-cats-after-snr-program&#34;&gt;Recognition Application for Cats after SNR Program&lt;/h1&gt;
+&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;
+&lt;p&gt;Urban animal shelters in many regions—such as Taiwan—are overburdened and face legal or ethical restrictions against euthanizing animals. As a result, many cats undergo SNR (Shelter, Neuter, Return) programs and are returned to city streets. Post-release, shelters lose track of these cats, making it difficult to monitor their health or facilitate potential adoptions. There&amp;rsquo;s a need for a data-driven system that allows society to stay connected to these animals, even after release.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Group Documentation] April 17 2025</title>
       <link>https://xknt21.github.io/contents/apr17/</link>
       <pubDate>Thu, 17 Apr 2025 01:06:59 +0900</pubDate>
       <guid>https://xknt21.github.io/contents/apr17/</guid>
-      <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;citizen-based-participatory-budget-system-general-idea-for-now-we-have-a-few-ideas-for-data-processing-but-dont-know-which-one-to-choose&#34;&gt;Citizen-Based Participatory Budget System (general idea for now, we have a few ideas for data processing, but don’t know which one to choose)&lt;/h2&gt;
 &lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;
 &lt;p&gt;Participatory budgeting (PB) empowers citizens to influence how public funds are allocated. However, challenges persist in ensuring fairness, transparency, and effective data utilization within these processes. Traditional methods may not adequately capture diverse community needs or leverage data-driven insights for optimal decision-making.​&lt;/p&gt;
 &lt;h3 id=&#34;data-acquisition&#34;&gt;Data Acquisition&lt;/h3&gt;
-&lt;p&gt;Sources of Data:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Historical PB election data from platforms like Pabulib, encompassing over 650 Polish PB elections.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Open budget data from government portals and initiatives like Open Spending.&lt;/p&gt;</description>
+&lt;p&gt;Sources of Data:&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Group Documentation] April 15 2025</title>
@@ -53,7 +66,9 @@
 &lt;li&gt;Data Sets from Government website&lt;/li&gt;
 &lt;li&gt;Gather feedbacks from Citizens&lt;/li&gt;
 &lt;li&gt;Analyze feedback to improve the quality and motivate their transparency by being monitored&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;h3 id=&#34;smart-food-scanner-a-personalised-ingredient-detection-app&#34;&gt;Smart Food Scanner: A Personalised Ingredient Detection App&lt;/h3&gt;
+&lt;p&gt;Many international students and residents in Japan, including those who follow halal, vegetarian, vegan diets, or have specific food allergies, often face difficulties identifying suitable food options in convenience stores due to language barriers and unclear ingredient labelling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Group Documentation] April 11 2025</title>
@@ -75,10 +90,10 @@
       <guid>https://xknt21.github.io/contents/apr8/</guid>
       <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;
 &lt;h3 id=&#34;toilet-finder-application&#34;&gt;Toilet Finder Application&lt;/h3&gt;
-&lt;p&gt;This application is a smart feature designed to help users locate nearby public restrooms quickly and conveniently. It’s especially useful for individuals with specific needs, such as people with disabilities or those looking for clean and accessible facilities. Here’s what it does:&lt;/p&gt;
+&lt;p&gt;This is a smart app feature designed to help users easily and effectively find public toilets in their environment. It&amp;rsquo;s especially helpful for those with special needs, such as the disabled or even clean and accessible toilet hunters. Here&amp;rsquo;s how it works:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Rush Hour Detection:&lt;/strong&gt; The app checks the current time and location data to determine how busy certain restrooms might be. During peak hours, it can suggest less crowded alternatives nearby, helping users avoid long waits.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Rush Hour Detection:&lt;/strong&gt;  The application cross-checks the time and location information to find out how busy certain restrooms are. At rush hour, it will suggest less busy ones around so the users don&amp;rsquo;t have to wait.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

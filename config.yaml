@@ -19,7 +19,7 @@ taxonomies:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: PBL3 Group H
-  description: 'My digital garden'
+  description: 'PBL3 Group H'
   keywords: [Blog, Portfolio, PaperMod]
   author: PBL3 Group H
   images: ['<link or path of image for opengraph, twitter-cards>']

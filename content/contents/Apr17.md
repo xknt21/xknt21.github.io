@@ -14,7 +14,8 @@ ShowReadingTime: true
 ShowPostNavLinks: true
 ---
 
-## Ideas:   
+## Citizen-Based Participatory Budget System (general idea for now, we have a few ideas for data processing, but don’t know which one to choose)
+
 
 ### Problem Statement
 Participatory budgeting (PB) empowers citizens to influence how public funds are allocated. However, challenges persist in ensuring fairness, transparency, and effective data utilization within these processes. Traditional methods may not adequately capture diverse community needs or leverage data-driven insights for optimal decision-making.​   
@@ -27,7 +28,7 @@ Sources of Data:
 
 * Survey responses and feedback collected via mobile apps, social media, and CRM systems.​   
 
- Data Collection Methods:   
+Data Collection Methods:   
 
 * Utilize tools such as Pabutools for parsing and organizing PB datasets.   
 
