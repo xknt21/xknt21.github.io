@@ -126,3 +126,6 @@ https://umap.openstreetmap.fr/ja/map/map_285407#16/34.9972/138.4414
 ## Task: (Until April 24, 2025)
 Project proposal, it has to have the problem definition , related applications and literature or governmental report. Data or method..how it should be established.
 Literature survey with similar applications and mention pros and cons. Make sure that everyone is on the page about the idea . Decide what we actually want to do. 
+
+
+[Imgur](https://i.imgur.com/Oy0vVLG.jpg)
