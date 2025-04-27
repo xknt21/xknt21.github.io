@@ -128,4 +128,4 @@ Project proposal, it has to have the problem definition , related applications a
 Literature survey with similar applications and mention pros and cons. Make sure that everyone is on the page about the idea . Decide what we actually want to do. 
 
 
-[Imgur](https://i.imgur.com/Oy0vVLG.jpg)
+![Imgur](https://i.imgur.com/Oy0vVLG.jpg)   

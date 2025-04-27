@@ -46,9 +46,9 @@ Many international students and residents in Japan, including those who follow h
 * A built-in database of certified products in Japan and a community feature for sharing reviews or recommendations will further support users in making safe and informed food choices.
 
 
-[Imgur](https://i.imgur.com/8Npuk3B.jpg)
-[Imgur](https://i.imgur.com/OU74sjT.jpg)
-[Imgur](https://i.imgur.com/w0He53J.jpg)
+![Imgur](https://i.imgur.com/8Npuk3B.jpg)   
+![Imgur](https://i.imgur.com/OU74sjT.jpg)   
+![Imgur](https://i.imgur.com/w0He53J.jpg)   
 
 
 

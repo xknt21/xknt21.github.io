@@ -31,7 +31,7 @@ Detects public areas with too much and too less shade to predict and provide rec
  **Objective:** I propose to use data analytics to find these emerging skill gaps in the workforce market and match people having such skills to jobs with a growing demand requiring them.
 
 
-[Imgur](https://i.imgur.com/hJmijGF.jpg)
+![Imgur](https://i.imgur.com/hJmijGF.jpg)   
 
 
 
