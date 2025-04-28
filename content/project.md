@@ -117,9 +117,17 @@ Initially, the application will be developed from a limited database of stray ca
 ## 7. Data Strategy
 ### 7.1 Data Acquisition
 
-- **Using Existing Online Datasets**: Search for publicly available cat image datasets.
-- **Directly Contacting Animal Shelters**: Request access to photo archives.
-- **Web Scraping from Shelter Websites**: Scrape images carefully, respecting legal standards.
+To support the identification and re-identification of stray cats, our team will collect image data from multiple sources, focusing on capturing cats from various angles (ideally 360-degree coverage) to ensure robust pattern recognition. The primary data acquisition methods are as follows:   
+
+
+ **7.1.1 Using Existing Online Datasets**
+First, we will search for publicly available datasets that contain images of cats. Some research communities and open-access repositories provide datasets featuring cats in various environments, which can serve as a foundation for building our database.   
+
+**7.1.2 Directly Contacting Animal Shelters**
+To supplement existing datasets, we will directly contact animal shelters and rescue organizations to request access to their photo archives. These institutions often take multiple photos of each animal from different angles for adoption purposes, which would be highly valuable for our re-identification training.   
+
+**7.1.3 Web Scraping from Shelter Websites**
+If we are unable to find a sufficient amount of data through existing datasets or direct contact with shelters, we will use web scraping techniques to collect images from the websites of animal shelters. This method will be used carefully, ensuring compliance with legal and ethical standards regarding data collection.   
 
 All images will be preprocessed for quality and privacy compliance.
 
@@ -127,30 +135,39 @@ All images will be preprocessed for quality and privacy compliance.
 
 ### 7.2 Data Processing - Preprocessing
 Collected images will undergo:
-- **Cleaning**: Remove blurry, duplicate, or corrupted images.
-- **Standardization**: Resize images and normalize pixel values.
-- **Annotation**: Add metadata (e.g., unique IDs, shelter info, location).
-- **Augmentation**: Apply flipping, rotation, brightness adjustments, and cropping.
+- **7.2.1 Cleaning**: Remove blurry, duplicate, or corrupted images.
+- **7.2.2 Standardization**: Resize images and normalize pixel values.
+- **7.2.3 Annotation**: Add metadata (e.g., unique IDs, shelter info, location).
+- **7.2.4 Augmentation**: Apply flipping, rotation, brightness adjustments, and cropping.
 
 Images will be used to train CNNs, creating vector embeddings for rapid matching.
 
 ---
 
 ### 7.3 Data Science Techniques
-
-- **Image Preprocessing**: OpenCV for resizing, normalization, etc.
-- **Feature Extraction**: CNN models like ResNet or MobileNet.
-- **Siamese Network for Re-Identification**: Using contrastive/triplet loss.
-- **Unsupervised Clustering**: DBSCAN or k-means if labeled data is insufficient.
-- **Web Scraping**: As a last resort.
+ 
+The following data science techniques will be used to power the smart stray cat re-identification system:   
+**7.3.1 Image Preprocessing with OpenCV (Pre-Processing)**   
+All collected images will undergo preprocessing steps such as resizing, normalization, noise reduction, and edge detection using OpenCV. These steps will improve the quality and consistency of data used for model training.   
+**7.3.2 Feature Extraction Using Convolutional Neural Networks (CNNs) (Extracting features of cats)**   
+We will use pre-trained deep learning models such as ResNet or MobileNet for extracting distinguishing visual features like fur pattern, eye shape, and ear position. These models are well suited for image-based classification tasks.   
+**7.3.3 Siamese Network for Re-Identification (Recognition)**   
+To determine whether two images represent the same cat, we will use a Siamese Neural Network trained with contrastive loss or triplet loss. These models are effective in learning a similarity function and have been used in human and animal re-identification tasks.   
+**7.3.4 Unsupervised Clustering (Classifying)**   
+When labeled data is insufficient, clustering techniques such as DBSCAN or k-means may be used to group similar cats together based on extracted features.    
+Web Scraping as a Last Resort: If the manually collected or community-contributed images prove insufficient, we will utilize web scraping to collect cat images from public forums, social media, and open-source databases. These technologies together create a robust pipeline capable of handling the complexity and variability of real-world stray cat identification.
 
 ---
 
 ### 7.4 Data Visualization
 
-- **Profile Cards**: Display cat details, health status, sighting timeline, etc.
-- **Map-Based Geolocation Visualization**: Interactive map for last known cat locations.
-- **Performance Metric Dashboards**: Visualize metrics like precision, recall, and confidence scores.
+The following data visualization techniques will be used to enhance the smart stray cat re-identification system which will feature a smart mobile application with a built-in cat recognition camera feature:   
+**7.4.1 Profile Cards**   
+After users submit images of the desired cat, a profile card will present essential information such as the cat’s name, breed (if identifiable), adoption status, last vaccination date (if available), and contact details for the associated shelter. Additionally, users can add additional information regarding the cat that they are reporting during the submission process, be it injuries or concerns which can be seen by other users and community members. Furthermore, the profile will also include a timeline of a cat’s recent sightings along with their rough location so that users can have an estimate of the area a specific cat likes to frequent. Lastly, each cat within the database will have a unique identifier that users can refer to when searching for a specific cat’s profile.    
+**7.4.2 Map-Based Geolocation Visualization**
+The system will include interactive maps that tag the last known location of recognized cats. When a cat is scanned or sighted, its geolocation data that is collected with consent and anonymized will be updated on the map. Users will also be able to search a unique identifier tag for certain cats to display all recent sightings of that specified cat along with their profile once clicked for better tracking and organization.   
+**7.4.3 Performance Metric Dashboards**  
+To maintain the reliability of the system, administrators will have access to dashboards visualizing key performance metrics such as precision, recall, and confidence scores. Bar charts, ROC curves, and simple statistical summaries will be used to monitor system accuracy and minimize false identifications. This internal visualization ensures that the app remains trustworthy for users and allows administrators to spot areas that are of concern such as a certain breed of cat not being optimized or other varying concerns.
 
 ---
 
