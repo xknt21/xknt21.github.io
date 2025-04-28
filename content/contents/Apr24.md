@@ -49,11 +49,11 @@ Additionally, existing apps generally require owners' cooperation, while stray c
 ## Scope (How Big the Problem Is)  
 Tens of thousands of cats participate in SNR programs annually in Taiwan alone. Urban environments are dynamic and cats are mobile, making continuous manual tracking impossible without technological aid. This project targets urban centers with a dense SNR population, aiming to scale nationally or internationally.
 
-##　Limitations and Risks  
-- **Accuracy Challenges**: Recognizing individual cats with subtle visual differences may cause errors.
-- **Data Quality**: User-submitted images may be blurry, low-quality, or mislabeled.
-- **Privacy Concerns**: Collecting geolocation data needs careful ethical consideration.
-- **Adoption Reluctance**: Users may scan cats but few may move forward with adoptions.
+## Limitations and Risks   
+**Accuracy Challenges**: Recognizing individual cats with subtle visual differences may cause errors.    
+**Data Quality**: User-submitted images may be blurry, low-quality, or mislabeled.   
+**Privacy Concerns**: Collecting geolocation data needs careful ethical consideration.   
+**Adoption Reluctance**: Users may scan cats but few may move forward with adoptions.   
 
 ## Sustainability (Future Extensions)  
 - Integrate with shelter databases for automatic record updates.
