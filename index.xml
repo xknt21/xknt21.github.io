@@ -6,28 +6,28 @@
     <description>Recent content on PBL3 Group H</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Apr 2025 01:06:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 01:06:59 +0900</lastBuildDate>
     <atom:link href="https://xknt21.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[Group Documentation] April 24 2025</title>
-      <link>https://xknt21.github.io/contents/apr24/</link>
-      <pubDate>Thu, 24 Apr 2025 01:06:59 +0900</pubDate>
-      <guid>https://xknt21.github.io/contents/apr24/</guid>
-      <description>&lt;h1 id=&#34;smart-re-identification-application-for-stray-cats-post-snr-program&#34;&gt;Smart Re-Identification Application for Stray Cats Post-SNR Program&lt;/h1&gt;&#xA;&lt;h2 id=&#34;problem-elicitation--background&#34;&gt;Problem Elicitation / Background&lt;/h2&gt;&#xA;&lt;p&gt;Urban animal shelters, particularly in regions like Taiwan, are heavily burdened and face legal or ethical restrictions against euthanizing animals. Following the Shelter-Neuter-Return (SNR) program, many cats are released back into the urban environment without systematic tracking, making it difficult to monitor their wellbeing or promote their adoption.&lt;br&gt;&#xA;There is a growing societal need for a solution that maintains a connection with these cats after their return, fostering animal welfare and enabling post-release care and adoption opportunities.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>[Group Documentation] May 13 2025</title>
       <link>https://xknt21.github.io/contents/may13/</link>
-      <pubDate>Thu, 24 Apr 2025 01:06:59 +0900</pubDate>
+      <pubDate>Tue, 13 May 2025 01:06:59 +0900</pubDate>
       <guid>https://xknt21.github.io/contents/may13/</guid>
       <description>&lt;h1 id=&#34;summary-of-activities&#34;&gt;Summary of Activities&lt;/h1&gt;&#xA;&lt;p&gt;On May 13, our team focused on two major tasks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Finalizing the interview questions for animal shelters and organizations.&lt;/li&gt;&#xA;&lt;li&gt;Mapping responsibilities and categorizing non-functional requirements (NFRs) for each team member, aligned with key stakeholders.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;interview-question-design--animal-shelter-staff&#34;&gt;Interview Question Design – Animal Shelter Staff&lt;/h1&gt;&#xA;&lt;p&gt;We brainstormed and refined a comprehensive list of questions to ask shelter staff in our upcoming interviews. These questions aim to deepen our understanding of real-world workflows, adoption procedures, and the shelter’s technical readiness to collaborate with our system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Group Documentation] May 6 2025</title>
       <link>https://xknt21.github.io/contents/may6/</link>
-      <pubDate>Thu, 24 Apr 2025 01:06:59 +0900</pubDate>
+      <pubDate>Tue, 06 May 2025 01:06:59 +0900</pubDate>
       <guid>https://xknt21.github.io/contents/may6/</guid>
       <description>&lt;h1 id=&#34;summary-of-activities&#34;&gt;Summary of Activities&lt;/h1&gt;&#xA;&lt;p&gt;On May 6, our group focused on clarifying key system behaviors and preparing in-depth technical questions for our upcoming consultation with the professor. This work session was dedicated to translating our conceptual design into more concrete technical concerns, especially related to cat image handling, recognition, and re-identification processes.&lt;/p&gt;&#xA;&lt;h1 id=&#34;technical-planning-and-discussion&#34;&gt;Technical Planning and Discussion&lt;/h1&gt;&#xA;&lt;p&gt;We discussed the expected photo upload process from general users, particularly from smartphones. While the feature itself was already listed as a requirement, we focused on exploring the technical details and potential user behaviors.&#xA;We identified the need to accept .jpg images from mobile users and started researching what image formats would be optimal for internal processing and model input. We agreed to seek expert input on whether conversion to other formats (e.g., .webp, .tiff) is recommended for performance or quality reasons.&#xA;We talked about challenges users might introduce, such as blurry images or inconsistent angles, and decided to ask about data pre-processing techniques to handle these cases effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Group Documentation] April 24 2025</title>
+      <link>https://xknt21.github.io/contents/apr24/</link>
+      <pubDate>Thu, 24 Apr 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/apr24/</guid>
+      <description>&lt;h1 id=&#34;smart-re-identification-application-for-stray-cats-post-snr-program&#34;&gt;Smart Re-Identification Application for Stray Cats Post-SNR Program&lt;/h1&gt;&#xA;&lt;h2 id=&#34;problem-elicitation--background&#34;&gt;Problem Elicitation / Background&lt;/h2&gt;&#xA;&lt;p&gt;Urban animal shelters, particularly in regions like Taiwan, are heavily burdened and face legal or ethical restrictions against euthanizing animals. Following the Shelter-Neuter-Return (SNR) program, many cats are released back into the urban environment without systematic tracking, making it difficult to monitor their wellbeing or promote their adoption.&lt;br&gt;&#xA;There is a growing societal need for a solution that maintains a connection with these cats after their return, fostering animal welfare and enabling post-release care and adoption opportunities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Group Documentation] April 22 2025</title>
