@@ -1,5 +1,5 @@
 ---
-date: 2025-04-24T01:06:59+09:00
+date: 2025-05-13T01:06:59+09:00
 draft: false
 title: '[Group Documentation] May 13 2025'
 summary: 

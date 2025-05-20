@@ -11,8 +11,35 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Apr 2025 01:06:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 01:06:59 +0900</lastBuildDate>
     <atom:link href="https://xknt21.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Group Documentation] May 13 2025</title>
+      <link>https://xknt21.github.io/contents/may13/</link>
+      <pubDate>Tue, 13 May 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/may13/</guid>
+      <description>&lt;h1 id=&#34;summary-of-activities&#34;&gt;Summary of Activities&lt;/h1&gt;
+&lt;p&gt;On May 13, our team focused on two major tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finalizing the interview questions for animal shelters and organizations.&lt;/li&gt;
+&lt;li&gt;Mapping responsibilities and categorizing non-functional requirements (NFRs) for each team member, aligned with key stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;interview-question-design--animal-shelter-staff&#34;&gt;Interview Question Design – Animal Shelter Staff&lt;/h1&gt;
+&lt;p&gt;We brainstormed and refined a comprehensive list of questions to ask shelter staff in our upcoming interviews. These questions aim to deepen our understanding of real-world workflows, adoption procedures, and the shelter’s technical readiness to collaborate with our system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Group Documentation] May 6 2025</title>
+      <link>https://xknt21.github.io/contents/may6/</link>
+      <pubDate>Tue, 06 May 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/may6/</guid>
+      <description>&lt;h1 id=&#34;summary-of-activities&#34;&gt;Summary of Activities&lt;/h1&gt;
+&lt;p&gt;On May 6, our group focused on clarifying key system behaviors and preparing in-depth technical questions for our upcoming consultation with the professor. This work session was dedicated to translating our conceptual design into more concrete technical concerns, especially related to cat image handling, recognition, and re-identification processes.&lt;/p&gt;
+&lt;h1 id=&#34;technical-planning-and-discussion&#34;&gt;Technical Planning and Discussion&lt;/h1&gt;
+&lt;p&gt;We discussed the expected photo upload process from general users, particularly from smartphones. While the feature itself was already listed as a requirement, we focused on exploring the technical details and potential user behaviors.
+We identified the need to accept .jpg images from mobile users and started researching what image formats would be optimal for internal processing and model input. We agreed to seek expert input on whether conversion to other formats (e.g., .webp, .tiff) is recommended for performance or quality reasons.
+We talked about challenges users might introduce, such as blurry images or inconsistent angles, and decided to ask about data pre-processing techniques to handle these cases effectively.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Group Documentation] April 24 2025</title>
       <link>https://xknt21.github.io/contents/apr24/</link>
@@ -48,13 +75,6 @@ There is a growing societal need for a solution that maintains a connection with
       <link>https://xknt21.github.io/presentation/</link>
       <pubDate>Tue, 15 Apr 2025 14:35:02 +0900</pubDate>
       <guid>https://xknt21.github.io/presentation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Requirements Specification</title>
-      <link>https://xknt21.github.io/requirements/</link>
-      <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
-      <guid>https://xknt21.github.io/requirements/</guid>
       <description></description>
     </item>
     <item>
@@ -133,6 +153,13 @@ There is a growing societal need for a solution that maintains a connection with
 &lt;p&gt;This project aims to develop an application capable of re-identifying stray cats that have been released following Shelter-Neuter-Return (SNR) programs. By capturing and uploading an image of a cat, users will be able to retrieve associated shelter records if the cat had previously been housed.&lt;br&gt;
 The system primarily addresses challenges related to post-shelter adoption by enabling potential adopters to determine the adoption status of stray cats outside the shelter environment.&lt;br&gt;
 Additionally, it offers broader support for stray cat population management and monitoring initiatives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Requirements Specification</title>
+      <link>https://xknt21.github.io/requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xknt21.github.io/requirements/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
