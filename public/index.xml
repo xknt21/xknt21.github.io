@@ -159,7 +159,31 @@ Additionally, it offers broader support for stray cat population management and 
       <link>https://xknt21.github.io/requirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xknt21.github.io/requirements/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;preface&#34;&gt;&lt;strong&gt;Preface&lt;/strong&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;version-history&#34;&gt;&lt;strong&gt;Version History&lt;/strong&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Version&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Date&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1.0&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;April 28, 2025&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Finished the initial project proposal with the goal of streamlining and assisting the adoption process of stray cats.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1.1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;May 26, 2025&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Adjusted system structure, goal, and certain features based on interviews conducted with stakeholders. Project now focuses more on preventing hospitals from doing redundant checkups on stray cats. Completed requirements specification.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;document-conventions&#34;&gt;&lt;strong&gt;Document Conventions&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in &lt;a href=&#34;https://datatracker.ietf.org/doc/html/rfc2119&#34;&gt;RFC 2119&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
