@@ -464,7 +464,7 @@ If a match is found, the system **MUST** display the **corresponding cat profile
 
 ### **Product-Usability**
 
-#### NFR-1 – Guided Submission Workflow
+### **NFR-1 – Guided Submission Workflow**
 
 The system MUST offer a streamlined and user-friendly photo submission flow to guide users through reporting a stray cat.
 
@@ -476,7 +476,7 @@ System Requirements
 **NFR-1.2**  
  The system MUST provide inline guidance or tooltips when the user is entering optional details such as color or injuries.
 
-#### NFR-2 – Recognition Result Clarity
+### **NFR-2 – Recognition Result Clarity**
 
 The system MUST provide clear and concise feedback on whether the uploaded cat photo matches an existing cat.
 
@@ -488,7 +488,7 @@ System Requirements
 **NFR-2.2**  
  The system MUST include a clear visual transition to the cat profile page when a match is successful.
 
-#### NFR-3 – Visual and Mobile Accessibility
+### **NFR-3 – Visual and Mobile Accessibility**
 
 The system MUST be designed for ease of use on a range of screen sizes and meet essential accessibility needs.
 
@@ -503,7 +503,7 @@ System Requirements
 **NFR-3.3**  
  The system SHOULD support touch-optimized components (e.g., large buttons, swipe gestures) for mobile users.
 
-#### NFR-4 – Performance
+### **NFR-4 – Performance**
 
 The system MUST respond to image upload and recognition tasks within a reasonable timeframe to maintain user engagement.
 
@@ -521,7 +521,7 @@ System Requirements
 
 **NFR\-4.6** The application shall maintain 99.5% uptime on a monthly basis.
 
-#### NFR-5 – Space
+### **NFR-5 – Space**
 
 The system MUST be installable and operate correctly within 500MB of disk space.
 
@@ -533,7 +533,8 @@ System Requirements
 
 ## **Product Dependability**
 
-#### NFR-6 – Dependability and System Reliability The system MUST ensure stable, secure, and consistent performance for users, particularly in environments with network instability, multiple concurrent users, and critical data operations.
+### **NFR-6 – Dependability and System Reliability**
+The system MUST ensure stable, secure, and consistent performance for users, particularly in environments with network instability, multiple concurrent users, and critical data operations.
 
 **System Requirements**
 
@@ -563,7 +564,7 @@ The system MUST support secure session handling, including session expiration af
 
 ### **Product-Efficiency-Security**
 
-#### NFR-7 – Secure User Authentication and Authorization
+### **NFR-7 – Secure User Authentication and Authorization**
 
 The system MUST ensure that only authorized users can access protected resources and perform actions appropriate to their roles.
 
@@ -575,7 +576,7 @@ The system MUST enforce secure user authentication using hashed email-password c
 **NFR-7.2**  
 The system MUST implement Role-Based Access Control (RBAC) to restrict system functions and data access based on user roles (e.g., animal hospital staff, organization representatives, individual caretakers, administrators)
 
-#### NFR-8 – Data Encryption and Protection
+### **NFR-8 – Data Encryption and Protection**
 
 The system MUST protect sensitive data by ensuring it is encrypted both during transmission and when stored.
 
@@ -587,7 +588,7 @@ All sensitive data (e.g., user profiles, shelter information, cat images) MUST b
 **NFR-8.2**  
 All sensitive data at rest MUST be encrypted using AES-256 or an equivalent standard.
 
-#### NFR-9 – Audit Logging and Monitoring
+### **NFR-9 – Audit Logging and Monitoring**
 
 The system MUST maintain secure and tamper-resistant logs to track critical system events and ensure accountability.
 
@@ -599,7 +600,7 @@ The system MUST maintain tamper-resistant audit logs for critical actions such a
 **NFR-9.2**  
 Access to audit logs MUST be restricted to authorized personnel only.
 
-#### NFR-10 – Input Validation and Secure Coding
+### **NFR-10 – Input Validation and Secure Coding**
 
 The system MUST prevent security vulnerabilities by validating user input and following secure coding best practices.
 
@@ -611,7 +612,7 @@ The system MUST validate all user inputs to prevent vulnerabilities such as SQL 
 **NFR-10.2**  
 The system MUST use secure coding practices, including prepared statements and input sanitization.
 
-#### NFR-11 – Secure Session Management
+### **NFR-11 – Secure Session Management**
 
 The system MUST manage user sessions securely to prevent unauthorized access and session hijacking.
 
@@ -623,7 +624,7 @@ The system MUST implement session expiration after a defined period of user inac
 **NFR-11.2**  
 The system MUST use secure cookie flags and regenerate session tokens upon re-authentication to prevent session hijacking.
 
-#### NFR-12 – User Privacy and Data Control
+### **NFR-12 – User Privacy and Data Control**
 
 The system MUST respect user privacy by allowing control over personal data and preventing exposure of sensitive information.
 
@@ -645,7 +646,7 @@ Location data in user-submitted images MUST be securely stored, and when shared,
 
 ### **Organizational-Environment:**
 
-#### NFR-13 **–** Execution Environment Compatibility
+### **NFR-13 - Execution Environment Compatibility**
 
 The system MUST be accessible on modern smartphones and browsers, and remain usable under poor network conditions.
 
@@ -658,7 +659,7 @@ The system SHOULD maintain functionality under low-bandwidth or unstable network
 **NFR-13.3**  
 All computation-heavy processes (e.g., inference, training) MUST be offloaded to cloud servers to minimise local device energy consumption and maintain consistent performance.
 
-#### NFR-14 **–** Physical Deployment and Geographic Resilience
+### **NFR-14 - Physical Deployment and Geographic Resilience**
 
 The system MUST be deployable in both urban and rural regions and remain reliable during natural disasters.
 
@@ -668,7 +669,7 @@ The system SHOULD be deployable across regions with different environmental and 
 **NFR-14.2**  
 In regions prone to natural disasters (e.g., earthquakes, typhoons), cloud infrastructure MUST support data redundancy and disaster recovery mechanisms.
 
-#### NFR-15 **–** Environmental Impact & Sustainability
+### **NFR-15 - Environmental Impact & Sustainability**
 
 The system MUST minimise environmental impact by using energy-efficient infrastructure and deleting unnecessary stored data.
 
@@ -678,7 +679,7 @@ The system’s cloud services SHOULD utilise energy-efficient infrastructure (e.
 **NFR-15.2**  
 Image storage MUST implement automatic cleanup policies, deleting unused or expired data to reduce unnecessary resource consumption and storage costs.
 
-#### NFR-16 **–** Wildlife & Habitat Sensitivity
+### **NFR-16 - Wildlife & Habitat Sensitivity**
 
 The system MUST NOT be used in protected wildlife zones without permission, and camera data in sensitive areas should be reviewed.
 
@@ -690,7 +691,7 @@ Camera data collection by users in environmentally sensitive areas SHOULD be res
 
 ### **Organizational-Operational**
 
-#### NFR-17 – Access Control and Data Integrity for Cat Records
+### **NFR-17 – Access Control and Data Integrity for Cat Records**
 
 The system MUST allow only authorised users to manage cat records and track all changes for accountability.
 
@@ -710,9 +711,9 @@ The system MUST record all changes to cat profiles for audit and traceability pu
 
 ### **Organizational-Development**
 
-#### NFR-18 – Maintainability and Scalable Development
+### **NFR-18 – Maintainability and Scalable Development**
 
-#### The system MUST be built with widely supported technologies, follow modular and testable code design, and support easy updates with minimal downtime.
+The system MUST be built with widely supported technologies, follow modular and testable code design, and support easy updates with minimal downtime.
 
 **NFR-18.1** 
 
@@ -742,7 +743,7 @@ System updates (bug fixes or minor features) shall be deployable with minimal do
 
 ### **Regulatory Compliance**
 
-#### NFR-19 – **Regulatory and Ethical Compliance**
+### **NFR-19 – Regulatory and Ethical Compliance**
 
 The system MUST comply with applicable data protection laws, ethical standards, and local animal welfare regulations in all operating regions.
 
@@ -763,7 +764,7 @@ Usage in sensitive areas (e.g., protected zones) SHOULD be restricted or require
 
 ### **Ethical Considerations**
 
-#### NFR-20 – **Data Privacy, Security, and Abuse Prevention**
+### **NFR-20 – Data Privacy, Security, and Abuse Prevention**
 
 The system MUST protect user privacy, prevent misuse of sensitive data, and uphold transparency and control in data usage.
 
@@ -784,7 +785,7 @@ Users MUST be informed how their data is used and MUST have opt-in/opt-out contr
 
 ### **Security & Legal Responsibility**
 
-#### NFR-21 – **Security, Accountability, and Legal Safeguards**
+### **NFR-21 – Security, Accountability, and Legal Safeguards**
 
 The system MUST ensure robust data security, enforce access control, and provide legal safeguards for both users and developers.
 
