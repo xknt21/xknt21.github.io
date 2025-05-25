@@ -468,7 +468,7 @@ If a match is found, the system **MUST** display the **corresponding cat profile
 
 The system MUST offer a streamlined and user-friendly photo submission flow to guide users through reporting a stray cat.
 
-System Requirements
+**System Requirements**
 
 **NFR-1.1**  
  The system MUST display visual prompts and simple call-to-action buttons (e.g., “Take Photo,” “Retake,” “Submit”) at each step of the report process.
@@ -492,7 +492,7 @@ System Requirements
 
 The system MUST be designed for ease of use on a range of screen sizes and meet essential accessibility needs.
 
-System Requirements
+**System Requirements**
 
 **NFR-3.1**  
  The system MUST meet at least WCAG 2.2 Level AA compliance standards for visual accessibility.
@@ -507,7 +507,7 @@ System Requirements
 
 The system MUST respond to image upload and recognition tasks within a reasonable timeframe to maintain user engagement.
 
-System Requirements
+**System Requirements**
 
 **NFR\-4.1** The system shall allow users to upload an image (≤5MB) within 3 seconds under normal network conditions.
 
@@ -525,7 +525,7 @@ System Requirements
 
 The system MUST be installable and operate correctly within 500MB of disk space.
 
-System Requirements
+**System Requirements**
 
 **NFR\-5.1** The installation drive MUST have at least 500MB of available disk space prior to installation.
 
@@ -568,7 +568,7 @@ The system MUST support secure session handling, including session expiration af
 
 The system MUST ensure that only authorized users can access protected resources and perform actions appropriate to their roles.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-7.1**  
 The system MUST enforce secure user authentication using hashed email-password combinations or social login mechanisms (e.g., OAuth2).
@@ -580,7 +580,7 @@ The system MUST implement Role-Based Access Control (RBAC) to restrict system fu
 
 The system MUST protect sensitive data by ensuring it is encrypted both during transmission and when stored.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-8.1**  
 All sensitive data (e.g., user profiles, shelter information, cat images) MUST be encrypted during transmission using TLS.
@@ -592,7 +592,7 @@ All sensitive data at rest MUST be encrypted using AES-256 or an equivalent stan
 
 The system MUST maintain secure and tamper-resistant logs to track critical system events and ensure accountability.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-9.1**  
 The system MUST maintain tamper-resistant audit logs for critical actions such as login attempts, data edits, and administrative changes.
@@ -604,7 +604,7 @@ Access to audit logs MUST be restricted to authorized personnel only.
 
 The system MUST prevent security vulnerabilities by validating user input and following secure coding best practices.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-10.1**  
 The system MUST validate all user inputs to prevent vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF).
@@ -616,7 +616,7 @@ The system MUST use secure coding practices, including prepared statements and i
 
 The system MUST manage user sessions securely to prevent unauthorized access and session hijacking.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-11.1**  
 The system MUST implement session expiration after a defined period of user inactivity (e.g., 30 minutes).
@@ -628,7 +628,7 @@ The system MUST use secure cookie flags and regenerate session tokens upon re-au
 
 The system MUST respect user privacy by allowing control over personal data and preventing exposure of sensitive information.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-12.1**  
 The system MUST provide users with functionality to access, update, and delete their personal data in compliance with privacy laws (e.g., GDPR).
@@ -695,7 +695,7 @@ Camera data collection by users in environmentally sensitive areas SHOULD be res
 
 The system MUST allow only authorised users to manage cat records and track all changes for accountability.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-17.1** 
 
@@ -747,7 +747,7 @@ System updates (bug fixes or minor features) shall be deployable with minimal do
 
 The system MUST comply with applicable data protection laws, ethical standards, and local animal welfare regulations in all operating regions.
 
-System Requirements:
+**System Requirements:**
 
 **NFR-19.1**  
 The system MUST comply with GDPR, Japan’s Act on the Protection of Personal Information, and Taiwan’s Personal Data Protection Act.  
@@ -768,7 +768,7 @@ Usage in sensitive areas (e.g., protected zones) SHOULD be restricted or require
 
 The system MUST protect user privacy, prevent misuse of sensitive data, and uphold transparency and control in data usage.
 
-System Requirements
+**System Requirements**
 
 **NFR-20.1**  
 Metadata (e.g., GPS info) MUST be stripped from uploaded images to prevent unintentional location exposure.  
@@ -789,7 +789,7 @@ Users MUST be informed how their data is used and MUST have opt-in/opt-out contr
 
 The system MUST ensure robust data security, enforce access control, and provide legal safeguards for both users and developers.
 
-System Requirements
+**System Requirements**
 
 **NFR-21.1**  
 All stored data MUST be encrypted (e.g., using AES-256).  
