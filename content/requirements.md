@@ -80,8 +80,7 @@ These facilities use the system to avoid treating the same cat multiple times, a
 
 #### Use Case Diagram
 
-![Imgur](https://imgur.com/g88nmjg.jpg)
-
+![Imgur](https://imgur.com/zAsA2Y3.jpg)
 #### User Classes Characteristics
 
 1. **Volunteer**: Includes individual caretakers, rescue groups, and TNR organizations.
@@ -171,6 +170,7 @@ Authorized users **MUST** be able to manage user accounts.
 ### **FR-3 – Edit Profile**
 
 Users **MUST** be able to update their personal or organizational profile information.  
+
 **System Requirements:**
 
 **FR-3.1** System **MUST** provide an editable user profile interface for personal or organization-specific information.
@@ -225,7 +225,7 @@ Users **MUST** be able to delete accounts in accordance with privacy regulations
 
 Users **MUST** be able to upload photos of stray cats using their smartphone through the application.
 
-#### **System Requirements**
+**System Requirements**
 
 **FR-7.1**  
 The system **MUST** provide an interface that allows users to select an existing image or capture a new one using their device's camera.
@@ -252,7 +252,7 @@ The system **MUST** process the uploaded image by testing it against the image-b
 
 Users **MUST** be able to receive a response indicating whether the uploaded cat matches an existing record in the system.
 
-#### **System Requirements**
+**System Requirements**
 
 **FR-8.1**  
 The system **MUST** compare the uploaded image against the cat image database using a trained re-identification model.
@@ -283,7 +283,7 @@ The system **MUST** classify re-identification match results into three confiden
 
 When a cat is recognized, the system **MUST** present relevant information about the cat to the user.
 
-System Requirements
+**System Requirements**
 
 **FR-9.1**  
 The system **MUST** retrieve and display the following fields from the database for a matched cat:
@@ -650,6 +650,8 @@ Location data in user-submitted images MUST be securely stored, and when shared,
 
 The system MUST be accessible on modern smartphones and browsers, and remain usable under poor network conditions.
 
+**System Requirements:**
+
 **NFR-13.1**  
 To accommodate diverse user environments, the system MUST be operational on modern smartphone devices (iOS 13+, Android 10+) and desktop browsers (Chrome, Safari, Edge).
 
@@ -663,6 +665,8 @@ All computation-heavy processes (e.g., inference, training) MUST be offloaded to
 
 The system MUST be deployable in both urban and rural regions and remain reliable during natural disasters.
 
+**System Requirements:**
+
 **NFR-14.1**  
 The system SHOULD be deployable across regions with different environmental and legal conditions, and must support geographic scalability (e.g., urban vs. rural shelters).
 
@@ -673,6 +677,8 @@ In regions prone to natural disasters (e.g., earthquakes, typhoons), cloud infra
 
 The system MUST minimise environmental impact by using energy-efficient infrastructure and deleting unnecessary stored data.
 
+**System Requirements:**
+
 **NFR-15.1**  
 The system’s cloud services SHOULD utilise energy-efficient infrastructure (e.g., carbon-neutral cloud platforms, auto-scaling containers) to reduce the environmental footprint.
 
@@ -682,6 +688,8 @@ Image storage MUST implement automatic cleanup policies, deleting unused or expi
 ### **NFR-16 - Wildlife & Habitat Sensitivity**
 
 The system MUST NOT be used in protected wildlife zones without permission, and camera data in sensitive areas should be reviewed.
+
+**System Requirements:**
 
 **NFR-16.1**  
 To avoid disturbing natural ecosystems, the application MUST NOT be used in protected wildlife zones without proper authorisation.
@@ -714,6 +722,8 @@ The system MUST record all changes to cat profiles for audit and traceability pu
 ### **NFR-18 – Maintainability and Scalable Development**
 
 The system MUST be built with widely supported technologies, follow modular and testable code design, and support easy updates with minimal downtime.
+
+**System Requirements:**
 
 **NFR-18.1** 
 
