@@ -4,20 +4,20 @@ title: 'Project Proposal'
 ---
 
 
-# Smart Re-Identification Application for Stray Cats Post-SNR Program
+# Smart Re-Identification Application for Stray Cats Post-TNR Program
 
 ## Overview
-This project aims to develop an application capable of re-identifying stray cats that have been released following Shelter-Neuter-Return (SNR) programs. By capturing and uploading an image of a cat, users will be able to retrieve associated shelter records if the cat had previously been housed.  
+This project aims to develop an application capable of re-identifying stray cats that have been released following Trap-Neuter-Return (TNR) programs. By capturing and uploading an image of a cat, users will be able to retrieve associated shelter records if the cat had previously been housed.  
 The system primarily addresses challenges related to post-shelter adoption by enabling potential adopters to determine the adoption status of stray cats outside the shelter environment.  
 Additionally, it offers broader support for stray cat population management and monitoring initiatives.
 
-**Keywords**: adoption; shelter; stray; re-identification; image recognition; SNR; Shelter-Neuter-Return
+**Keywords**: adoption; shelter; stray; re-identification; image recognition; TNR; Trap-Neuter-Return
 
 ---
 
 ## 1. Problem Statement - Background
 Urban animal shelters in many regions are overburdened and face legal or ethical restrictions against euthanizing animals. As a result, many cats that were once sheltered are returned to city streets.  
-To control the growing population of stray cats, many governments or organizations implement TNR (Trap-Neuter-Return) or SNR (Shelter-Neuter-Return) programs. However, research has shown that simply implementing those programs is unable to decrease the number of stray cats, and that increasing the adoption rate is still the only approach [1].  
+To control the growing population of stray cats, many governments or organizations implement TNR (Trap-Neuter-Return) programs. However, research has shown that simply implementing those programs is unable to decrease the number of stray cats, and that increasing the adoption rate is still the only approach [1].  
 Additionally, the process of adoption has multiple barriers. For example, shelters lose track of these cats after release, making it difficult to monitor their health or facilitate potential adoptions.  
 It is essential to lower the barriers to increase the adoption rate [2].  
 There's a need for a data-driven system that allows society to stay connected to these animals, even after release.
@@ -47,7 +47,7 @@ Our project addresses this by allowing citizens to simply **take a picture** of 
 ---
 
 ### 3.2 Track post-release wellbeing
-After release, monitoring the condition of cats becomes almost impossible under traditional SNR programs. Our application offers a solution by digitally tracking sightings of identified cats. Shelters and citizens can help monitor the cats’ health and general well being over time. Early detection of health issues, injuries or behavioral changes can lead to timely intervention, thus improving overall urban animal welfare.
+After release, monitoring the condition of cats becomes almost impossible under traditional TNR programs. Our application offers a solution by digitally tracking sightings of identified cats. Shelters and citizens can help monitor the cats’ health and general well being over time. Early detection of health issues, injuries or behavioral changes can lead to timely intervention, thus improving overall urban animal welfare.
 
 ---
 
@@ -69,13 +69,13 @@ Often, street cats are viewed as anonymous creatures with little to no personal 
 Taiwan faces a major stray animal issue, with over 160,000 stray cats and dogs reported [10]. This number is increasing yearly due to abandonment and unregulated breeding. Globally, the problem is even bigger; for example, the USA alone has an estimated 30–80 million stray cats living on the streets [12]. These high numbers show that stray animals are a long-term and large-scale problem that cities are struggling to manage.
 
 **Shelters Are Overloaded**
-In Taiwan, shelters can accommodate only about 3% of stray animals [10]. This means 97% of strays remain outside or are re-released through SNR programs. Overcrowded shelters cannot properly care for the animals, and new arrivals are often turned away. Therefore, SNR becomes a necessary but imperfect solution where the animal is released but loses all official connection to the shelter system.
+In Taiwan, shelters can accommodate only about 3% of stray animals [10]. This means 97% of strays remain outside or are re-released through TNR programs. Overcrowded shelters cannot properly care for the animals, and new arrivals are often turned away. Therefore, SNR becomes a necessary but imperfect solution where the animal is released but loses all official connection to the shelter system.
 
 **Post-Release Cats Are Forgotten**
 After being neutered and returned, these cats are no longer tracked by shelters [10]. There’s no monitoring for illnesses, injuries, or changes in behavior. This creates a huge welfare gap — if a cat gets sick or hurt after release, no one notices unless a random citizen reports it. The lack of a reconnection method also limits opportunities for future adoption or rescue.
 
 **Current Tracking Methods Are Weak**
-The only current method of identifying SNR cats is through ear-tipping, a practice where a small part of the cat’s ear is clipped to indicate it was neutered [12]. However, ear-tipping does not distinguish individual cats. It tells you the cat has been neutered, but not which cat it is. There is no system to recognize a particular cat or follow its health or status over time.
+The only current method of identifying TNR cats is through ear-tipping, a practice where a small part of the cat’s ear is clipped to indicate it was neutered [12]. However, ear-tipping does not distinguish individual cats. It tells you the cat has been neutered, but not which cat it is. There is no system to recognize a particular cat or follow its health or status over time.
 
 **Financial Costs Are Huge**
 Managing strays without a tracking system is extremely cost-inefficient. Taiwan’s local governments spend millions each year on capturing, neutering, and handling stray animals [3]. Without good tracking, shelters and government workers waste resources by mistakenly re-catching neutered cats or failing to prioritize sick ones. Long term, this drives up costs for cities and leads to inefficient use of public funds.
