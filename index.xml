@@ -44,13 +44,6 @@
       <description>&lt;h2 id=&#34;citizen-based-participatory-budget-system-general-idea-for-now-we-have-a-few-ideas-for-data-processing-but-dont-know-which-one-to-choose&#34;&gt;Citizen-Based Participatory Budget System (general idea for now, we have a few ideas for data processing, but don’t know which one to choose)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;&#xA;&lt;p&gt;Participatory budgeting (PB) empowers citizens to influence how public funds are allocated. However, challenges persist in ensuring fairness, transparency, and effective data utilization within these processes. Traditional methods may not adequately capture diverse community needs or leverage data-driven insights for optimal decision-making.​&lt;/p&gt;&#xA;&lt;h3 id=&#34;data-acquisition&#34;&gt;Data Acquisition&lt;/h3&gt;&#xA;&lt;p&gt;Sources of Data:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Presentation</title>
-      <link>https://xknt21.github.io/presentation/</link>
-      <pubDate>Tue, 15 Apr 2025 14:35:02 +0900</pubDate>
-      <guid>https://xknt21.github.io/presentation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>System Design Document</title>
       <link>https://xknt21.github.io/system/</link>
       <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
@@ -84,6 +77,13 @@
       <pubDate>Tue, 08 Apr 2025 01:06:59 +0900</pubDate>
       <guid>https://xknt21.github.io/contents/apr8/</guid>
       <description>&lt;h2 id=&#34;ideas&#34;&gt;Ideas:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;toilet-finder-application&#34;&gt;Toilet Finder Application&lt;/h3&gt;&#xA;&lt;p&gt;This is a smart app feature designed to help users easily and effectively find public toilets in their environment. It&amp;rsquo;s especially helpful for those with special needs, such as the disabled or even clean and accessible toilet hunters. Here&amp;rsquo;s how it works:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rush Hour Detection:&lt;/strong&gt;  The application cross-checks the time and location information to find out how busy certain restrooms are. At rush hour, it will suggest less busy ones around so the users don&amp;rsquo;t have to wait.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>https://xknt21.github.io/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xknt21.github.io/presentation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://xknt21.github.io/files/PBL3_Team_H.pdf&#34;&gt;Mid-term Presentation Slides Download&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Proposal</title>
