@@ -71,13 +71,6 @@ There is a growing societal need for a solution that maintains a connection with
 &lt;p&gt;Sources of Data:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Presentation</title>
-      <link>https://xknt21.github.io/presentation/</link>
-      <pubDate>Tue, 15 Apr 2025 14:35:02 +0900</pubDate>
-      <guid>https://xknt21.github.io/presentation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>System Design Document</title>
       <link>https://xknt21.github.io/system/</link>
       <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
@@ -142,6 +135,13 @@ There is a growing societal need for a solution that maintains a connection with
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Rush Hour Detection:&lt;/strong&gt;  The application cross-checks the time and location information to find out how busy certain restrooms are. At rush hour, it will suggest less busy ones around so the users don&amp;rsquo;t have to wait.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>https://xknt21.github.io/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xknt21.github.io/presentation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://xknt21.github.io/files/PBL3_Team_H.pdf&#34;&gt;Mid-term Presentation Slides Download&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Proposal</title>
