@@ -161,7 +161,7 @@ Each interaction in the diagram is as follows:
    3) If confirmation is received, the account portal accesses the volunteer database to remove the account. If there is no confirmation, no action will take place.
 
 # **Flow Chart (Activity Diagrams)**
-![Imgur](https://imgur.com/d9ybxiH.png)
+![Imgur](https://imgur.com/cGNX15H.png)
 ![Imgur](https://imgur.com/fqy7GXx.png)
 
 ## **Explanation**
