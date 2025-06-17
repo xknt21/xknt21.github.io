@@ -44,13 +44,6 @@
       <description>&lt;h2 id=&#34;citizen-based-participatory-budget-system-general-idea-for-now-we-have-a-few-ideas-for-data-processing-but-dont-know-which-one-to-choose&#34;&gt;Citizen-Based Participatory Budget System (general idea for now, we have a few ideas for data processing, but don’t know which one to choose)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h3&gt;&#xA;&lt;p&gt;Participatory budgeting (PB) empowers citizens to influence how public funds are allocated. However, challenges persist in ensuring fairness, transparency, and effective data utilization within these processes. Traditional methods may not adequately capture diverse community needs or leverage data-driven insights for optimal decision-making.​&lt;/p&gt;&#xA;&lt;h3 id=&#34;data-acquisition&#34;&gt;Data Acquisition&lt;/h3&gt;&#xA;&lt;p&gt;Sources of Data:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>System Design Document</title>
-      <link>https://xknt21.github.io/system/</link>
-      <pubDate>Tue, 15 Apr 2025 14:34:31 +0900</pubDate>
-      <guid>https://xknt21.github.io/system/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>System Architecture</title>
       <link>https://xknt21.github.io/architecture/</link>
       <pubDate>Tue, 15 Apr 2025 14:34:06 +0900</pubDate>
@@ -98,6 +91,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xknt21.github.io/requirements/</guid>
       <description>&lt;h1 id=&#34;preface&#34;&gt;&lt;strong&gt;Preface&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;version-history&#34;&gt;&lt;strong&gt;Version History&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Version&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Date&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;1.0&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;April 28, 2025&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Finished the initial project proposal with the goal of streamlining and assisting the adoption process of stray cats.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;1.1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;May 26, 2025&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Adjusted system structure, goal, and certain features based on interviews conducted with stakeholders. Project now focuses more on preventing hospitals from doing redundant checkups on stray cats. Completed requirements specification.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;document-conventions&#34;&gt;&lt;strong&gt;Document Conventions&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in &lt;a href=&#34;https://datatracker.ietf.org/doc/html/rfc2119&#34;&gt;RFC 2119&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>System Design Document</title>
+      <link>https://xknt21.github.io/system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xknt21.github.io/system/</guid>
+      <description>&lt;h1 id=&#34;preface&#34;&gt;&lt;strong&gt;Preface&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;version-history&#34;&gt;&lt;strong&gt;Version History&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Version&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Date&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;1.0&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;June 16, 2025&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Initial version&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This is the system design document for the “Re-identification Application for Stray Cats Post-TNR Program,” project which covers the process of abstracting system requirements into an easier format to be translated into code for development. The project aims to offer a streamlined application that can intermediate the process of stray cat management post-TNR which may come in the form of reducing redundant check-ups, provide a convenient recording system for stray cats, and facilitate community members a better means to assist stray cat management. This document consists of various diagrams used to illustrate various processes, interactions, and concepts within the system in a manner that adheres to all kinds of readers.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
