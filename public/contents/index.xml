@@ -11,8 +11,25 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 01:06:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 01:06:59 +0900</lastBuildDate>
     <atom:link href="https://xknt21.github.io/contents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Group Documentation] Jun 10 2025</title>
+      <link>https://xknt21.github.io/contents/jun10/</link>
+      <pubDate>Tue, 10 Jun 2025 01:06:59 +0900</pubDate>
+      <guid>https://xknt21.github.io/contents/jun10/</guid>
+      <description>&lt;p&gt;This week, we worked on completing the diagram involved in the re-identification system for stray cats post-TNR.&lt;/p&gt;
+&lt;h2 id=&#34;defined-system-overview-&#34;&gt;Defined System Overview :&lt;/h2&gt;
+&lt;p&gt;Sorted the basic purpose of the application in order to minimize repetitive medical procedures for stray cats and assist better tracking post-TNR.
+Planned out interaction between administrators , volunteers , animal hospitals and central database.&lt;/p&gt;
+&lt;h2 id=&#34;use-case-diagram-&#34;&gt;Use Case Diagram :&lt;/h2&gt;
+&lt;p&gt;Spotted 19 functional use cases including sign up , upload image , view cat profile , manage ID results.
+The use case diagram demonstrated actor-function relationships.&lt;br&gt;
+&lt;strong&gt;Group actors are :&lt;/strong&gt; &lt;br&gt;
+Volunteers &lt;br&gt;
+Animal Hospital Staff&lt;br&gt;
+Administrators&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Group Documentation] May 13 2025</title>
       <link>https://xknt21.github.io/contents/may13/</link>
