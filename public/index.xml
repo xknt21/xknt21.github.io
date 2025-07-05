@@ -88,13 +88,6 @@ There is a growing societal need for a solution that maintains a connection with
 &lt;p&gt;Sources of Data:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>System Architecture</title>
-      <link>https://xknt21.github.io/architecture/</link>
-      <pubDate>Tue, 15 Apr 2025 14:34:06 +0900</pubDate>
-      <guid>https://xknt21.github.io/architecture/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>[Group Documentation] April 15 2025</title>
       <link>https://xknt21.github.io/contents/apr15/</link>
       <pubDate>Tue, 15 Apr 2025 01:06:59 +0900</pubDate>
@@ -194,6 +187,15 @@ Additionally, it offers broader support for stray cat population management and 
 &lt;/table&gt;
 &lt;h3 id=&#34;document-conventions&#34;&gt;&lt;strong&gt;Document Conventions&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in &lt;a href=&#34;https://datatracker.ietf.org/doc/html/rfc2119&#34;&gt;RFC 2119&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>System Architecture</title>
+      <link>https://xknt21.github.io/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xknt21.github.io/architecture/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+This document is based on the high-level description of the software architecture for the “Smart Re-Identification System for Stray Cat Post-TNR Programs” designed to assist volunteers such as individual caretakers, rescue groups, and facilitate the management and adoption of stray cats by identifying previously recorded individuals using AI-powered image recognition.&lt;/p&gt;
+&lt;p&gt;This document focuses on the architecture and data flow from the perspective of a volunteer account user. It outlines the major components involved in the system and explains how these components interact through a clearly defined pipeline.&lt;/p&gt;</description>
     </item>
     <item>
       <title>System Design Document</title>
